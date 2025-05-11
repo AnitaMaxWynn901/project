@@ -15,7 +15,7 @@ import pickle
 
 # Page config
 st.set_page_config(page_title="Customer Clustering", layout="wide")
-st.title("Customer Segmentation App (K-Means Clustering)")
+st.title("Project2_16")
 
 # Load saved model and scaler
 @st.cache_resource
